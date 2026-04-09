@@ -1,7 +1,5 @@
 package com.pluralsight;
 
-import com.sun.security.jgss.GSSUtil;
-
 public class Reciept {
     public static void main(String[] args) {
         System.out.println();

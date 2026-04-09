@@ -20,8 +20,8 @@ public class VariableApp {
         System.out.println("My middle initial is: " + middleInitial);
 
         //Has Pet
-        String hasPet;
-        hasPet = "yes";
+        boolean hasPet;
+        hasPet = true;
         System.out.println("Do I have a pet "+ hasPet );
 
         //Nice Message
